@@ -2,7 +2,7 @@
 
 Dicoogle is an extensible, platform-independent and open-source PACS archive software that replaces the traditional centralized database with a more agile indexing and retrieval mechanism. It was designed to support automatic extraction, indexing and storage of all meta-data detected in medical images, including private DICOM attribute tags, without re-engineering or reconfiguration requirements.
 
-Do you want to know more about this projects? **Check the following resources:**
+Do you want to know more about this project? **Check the following resources:**
 
 :earth_africa: Website: https://www.dicoogle.com
 
