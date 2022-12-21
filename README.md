@@ -4,6 +4,7 @@ Dicoogle is an extensible, platform-independent and open-source PACS archive sof
 
 Do you want to know more about this project? **Check the following resources:**
 
+:open_file_folder: Official github: https://github.com/bioinformatics-ua/dicoogle
+
 :earth_africa: Website: https://www.dicoogle.com
 
-:open_file_folder: Official github: https://github.com/bioinformatics-ua/dicoogle
